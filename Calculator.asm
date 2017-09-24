@@ -1,4 +1,5 @@
 .data
+########this is our project for cmpt215###########
 ############ datas for choosing an option ############
 	display: .asciiz "Now, you are in our Calulator,  with the instructions, you can put your equation into our program, and we will give you an answer.\n"
 #	instruction: .asciiz "Following the instruction to do right thing, you can exit with the butten cancel."
